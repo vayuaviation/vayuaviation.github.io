@@ -1,0 +1,319 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<?php include "header.php" ?>
+
+<body>
+  
+  
+   <main>
+
+      <!-- page title area  -->
+      <section class="page-title-area breadcrumb-spacing" data-background="assets/img/about/51.jpg">
+         <div class="container">
+            <div class="row justify-content-center">
+               <div class="col-xxl-9">
+                  <div class="page-title-wrapper text-center">
+                     <h3 style="color:white">Transportation</h3>
+                     <div class="breadcrumb-menu">
+                        <nav aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs">
+                           <ul class="trail-items">
+                              <li class="trail-item trail-begin"><a href="index.php"><span>Home</span></a></li>
+                              <li class="trail-item trail-end"><span>Transportation</span></li>
+                           </ul>
+                        </nav>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- page title area end -->
+
+      <!-- About Us 3 Area Start Here -->
+      <section class="about__3 about__gray-bg p-relative pt-120 pb-60 wow fadeInUp" data-wow-duration="1.5s"
+         data-wow-delay=".3s">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-md-6 ">
+                  <div class="about__3-img-wrapper p-relative mb-60">
+                     <div class="about__3-top w-img">
+                        <img src="assets/img/about/about-3-1.png" alt="About" style="height:150px;">
+                     </div>
+                     <div class="about__3-main w-img">
+                        <img src="assets/img/about/31.jpg" alt="About">
+                     </div>
+                    
+                  </div>
+               </div>
+               <div class="col-md-6 ">
+                  <div class="about__3-content mb-60">
+                     <div class="section__title mb-30">
+                        <span >Transportation</span>
+                        <h3 >Transportation service</h3>
+                     </div>
+                     <div class="about__3-content-inner p-relative">
+                        <div >
+                           <p>Vayu Aviation provides transportation services as part of their logistics solutions. WE specialize in both air and sea transportation to facilitate the movement of goods for their clients. Here's an overview of Vayu Aviation's transportation services.
+</p>
+                          
+                        </div>
+                       
+                     </div>
+                  </div>
+               </div>
+			  
+            </div>
+         </div>
+      </section>
+
+      <!-- About Us 3 Area End Here -->
+
+      <!-- Services 3 Area Start Here  -->
+<section class="services__3 grey-bg-4  pb-90 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".3s">
+         <div class="container">
+           
+            <div class="row">
+               <div class=" col-md-6">
+                  <div class="services__3-item mb-30">
+                     <div class="services__3-item-num">
+                        <h3>01</h3>
+                     </div>
+                     <div class="services__3-item-icon">
+                        <img src="assets/img/about/32.jpg" alt="About" style="height:100px;width:100px;">
+                     </div>
+                     <h3 ><a href="#">Air Transportation</a></h3>
+                     <p class="services__3-item-text">Vayu Aviation offers air transportation services, leveraging their network of airline partners and expertise in air freight. WE handle the logistics and coordination of air cargo shipments, ensuring efficient and timely delivery of goods. Whether it's small packages, perishable goods, or oversized cargo, Vayu Aviation provides transportation solutions to meet various air cargo requirements.
+                     </p>
+                  </div>
+               </div>
+               <div class=" col-md-6">
+                  <div class="services__3-item mb-30">
+                     <div class="services__3-item-num">
+                        <h3>02</h3>
+                     </div>
+                     <div class="services__3-item-icon">
+                         <img src="assets/img/about/33.jpg" alt="About" style="height:100px;width:100px;">
+                     </div>
+                     <h3 ><a href="#">Sea Transportation</a></h3>
+                     <p class="services__3-item-text"> Vayu Aviation facilitates sea transportation through their partnerships with shipping lines and knowledge of sea freight operations. WE manage the logistics of sea cargo, including containerized shipments and bulk cargo, across various international and domestic routes. Vayu Aviation handles the coordination, documentation, and customs clearance associated with sea transportation to ensure smooth delivery of goods.
+                     </p>
+                  </div>
+               </div>
+               <div class=" col-md-6">
+                  <div class="services__3-item mb-30">
+                     <div class="services__3-item-num">
+                        <h3>03</h3>
+                     </div>
+                     <div class="services__3-item-icon">
+                         <img src="assets/img/about/34.jpg" alt="About" style="height:100px;width:100px;">
+                     </div>
+                     <h3 ><a href="#">Multimodal Transportation</a></h3>
+                     <p class="services__3-item-text">Vayu Aviation offers multimodal transportation solutions that combine different modes of transportation, such as air, sea, rail, and road, to optimize logistics operations. WE coordinate the seamless transfer of cargo between different transportation modes, providing end-to-end transportation services for their clients.
+
+                     </p>
+                  </div>
+               </div>
+               <div class=" col-md-6">
+                  <div class="services__3-item mb-30">
+                     <div class="services__3-item-num">
+                        <h3>04</h3>
+                     </div>
+                     <div class="services__3-item-icon">
+                        <img src="assets/img/about/35.jpg" alt="About" style="height:100px;width:100px;">
+                     </div>
+                     <h3 ><a href="#">Route Optimization and Logistics Planning</a></h3>
+                     <p class="services__3-item-text"> Vayu Aviation focuses on optimizing transportation routes and logistics planning to ensure cost-effective and efficient transportation solutions. WE consider factors such as distance, transit times, infrastructure, and specific client requirements to design optimized transportation plans.
+
+
+                     </p>
+                  </div>
+               </div>
+               <div class=" col-md-6">
+                  <div class="services__3-item mb-30">
+                     <div class="services__3-item-num">
+                        <h3>05</h3>
+                     </div>
+                     <div class="services__3-item-icon">
+                        <img src="assets/img/about/36.jpg" alt="About" style="height:100px;width:100px;">
+                     </div>
+                     <h3 ><a href="#">Specialized Transportation</a></h3>
+                     <p class="services__3-item-text">Vayu Aviation specializes in handling specialized cargo and transportation requirements. This may include the transportation of perishable goods, hazardous materials, oversized or heavy cargo, sensitive equipment, and high-value commodities. WE ensure compliance with relevant regulations and industry standards while providing tailored transportation solutions for these specific cargo types.
+                     </p>
+                  </div>
+               </div>
+               <div class=" col-md-6">
+                  <div class="services__3-item mb-30">
+                     <div class="services__3-item-num">
+                        <h3>06</h3>
+                     </div>
+                     <div class="services__3-item-icon">
+                        <img src="assets/img/about/37.jpg" alt="About" style="height:100px;width:100px;">
+                     </div>
+                     <h3 ><a href="#">Tracking and Visibility</a></h3>
+                     <p class="services__3-item-text"> Vayu Aviation provides tracking and visibility services, allowing clients to monitor the status and location of their shipments in real-time. WE offer tracking systems and communication channels to keep clients informed about the progress of their transportation activities.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- Services 3 Area End Here  -->
+
+      <!-- approach area start 
+      <section class="approach__area fix grey-bg-4">
+         <div class="approach__img m-img">
+            <img src="assets/img/approach/approch-img.jpg" alt="approach">
+         </div>
+         <div class="container">
+            <div class="row g-0 justify-content-end">
+               <div class="col-lg-6">
+                  <div class="approach__content wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".3s">
+                     <div class="section__title mb-35">
+                        <span class="sub-title">approach</span>
+                        <h2 class="title">100% Satisfaction
+                           Guarantee
+                        </h2>
+                     </div>
+                     <div class="approach__text">
+                        <p>Delport Group is a representative logistics operator providing full range of service
+                           in
+                           the sphere of customs
+                           clearance
+                           transportation worldwide for any cargo.
+                        </p>
+                        <ul>
+                           <li><i class="fal fa-check-circle"></i>Commercial expertise</li>
+                           <li><i class="fal fa-check-circle"></i>Logistical expertise</li>
+                           <li><i class="fal fa-check-circle"></i>Sustainability goals</li>
+                           <li><i class="fal fa-check-circle"></i>Cost Optimization</li>
+                           <li><i class="fal fa-check-circle"></i>Reduce Transit Time</li>
+                           <li><i class="fal fa-check-circle"></i>Managing Logistics</li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- approach area end -->
+
+      <!-- mission area start
+      <section class="mission__area p-relative fix grey-bg-4 mb-120">
+         <div class="mission__img m-img">
+            <img src="assets/img/mission/mission-img.jpg" alt="mission">
+         </div>
+         <div class="container">
+            <div class="row g-0">
+               <div class="col-lg-6">
+                  <div class="mission__content wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".3s">
+                     <div class="section__title mb-35">
+                        <span class="sub-title">Our Mission</span>
+                        <h2 class="title">Our global logistics
+                           expertise supply
+                        </h2>
+                     </div>
+                     <div class="mission__text">
+                        <p>Delport Group is a representative logistics operator providing full range of service
+                           in
+                           the sphere of customs
+                           clearance
+                           transportation worldwide for any cargo.
+                        </p>
+                        <div class="mission__text-inner">
+                           <img src="assets/img/mission/mission-contact-img.jpg" alt="mission">
+                           <div class="mission__text-contact">
+                              <div class="single-contact-info d-flex align-items-center">
+                                 <div class="contact-info-icon">
+                                    <a href="#"><i class="flaticon-envelope"></i></a>
+                                 </div>
+                                 <div class="contact-info-text">
+                                    <span>send email</span>
+                                    <h5><a href="mailto:info@webdow.com">info@webdow.com</a> </h5>
+                                 </div>
+                              </div>
+                           </div>
+
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- mission area end -->
+
+      <!-- Brand Area Start Here 
+      <div class="brand white-bg two border-tb wow fadeInUp mb-120" data-wow-duration="1.5s" data-wow-delay=".3s">
+         <div class="container-fluid p-0">
+            <div class="swiper-container brand-active-2">
+                  <!-- Additional required wrapper
+                  <div class="swiper-wrapper text-center">
+                     <!-- Slides 
+                     <div class="swiper-slide">
+                        <div class="brand-items-2">
+                              <a href="#"><img src="assets/img/brand/bc1.png" alt="Brand"></a>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="brand-items-2">
+                              <a href="#"><img src="assets/img/brand/bc2.png" alt="Brand"></a>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="brand-items-2">
+                              <a href="#"><img src="assets/img/brand/bc3.png" alt="Brand"></a>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="brand-items-2">
+                              <a href="#"><img src="assets/img/brand/bc4.png" alt="Brand"></a>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="brand-items-2">
+                              <a href="#"><img src="assets/img/brand/bc5.png" alt="Brand"></a>
+                        </div>
+                     </div>                    
+                     <div class="swiper-slide">
+                        <div class="brand-items-2">
+                              <a href="#"><img src="assets/img/brand/bc6.png" alt="Brand"></a>
+                        </div>
+                     </div>
+                  </div>
+            </div>
+         </div>
+      </div>
+      <!-- Brand Area End Here  -->
+
+   </main>
+  <?php include "footer.php" ?>
+   <div class="progress-wrap">
+      <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+         <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+      </svg>
+   </div>
+   <!-- back to top end -->
+   <!-- JS here -->
+   <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
+   <script src="assets/js/vendor/waypoints.min.js"></script>
+   <script src="assets/js/bootstrap.bundle.min.js"></script>
+   <script src="assets/js/meanmenu.js"></script>
+   <script src="assets/js/swiper-bundle.min.js"></script>
+   <script src="assets/js/owl.carousel.min.js"></script>
+   <script src="assets/js/magnific-popup.min.js"></script>
+   <script src="assets/js/parallax.min.js"></script>
+   <script src="assets/js/backToTop.js"></script>
+   <script src="assets/js/jquery-ui-slider-range.js"></script>
+   <script src="assets/js/nice-select.min.js"></script>
+   <script src="assets/js/counterup.min.js"></script>
+   <script src="assets/js/ajax-form.js"></script>
+   <script src="assets/js/wow.min.js"></script>
+   <script src="assets/js/isotope.pkgd.min.js"></script>
+   <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+   <script src="assets/js/rangeslider-js.min.js"></script>
+   <script src="assets/js/main.js"></script>
+</body>
+
+<!-- Mirrored from codeskdhaka.com/html/delport-prv/delport/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 30 Jun 2023 05:21:48 GMT -->
+</html>
