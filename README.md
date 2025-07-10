@@ -1,2 +1,0 @@
-# vayuaviation.github.io
-vayuaviation
